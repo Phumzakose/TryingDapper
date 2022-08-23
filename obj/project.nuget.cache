@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUFnbrzaoxFC/oXQ7LxysigZRyeKVFg7koUpJHKwKzT7JqrvjFq/jb50Ok89/Th0qYpyi6PaZTIQN6SojVjvHA==",
+  "success": true,
+  "projectFilePath": "/home/codex/c#projects/TryingDapper/TryingDapper.csproj",
+  "expectedPackageFiles": [
+    "/home/codex/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/home/codex/.nuget/packages/microsoft.data.sqlite/6.0.8/microsoft.data.sqlite.6.0.8.nupkg.sha512",
+    "/home/codex/.nuget/packages/microsoft.data.sqlite.core/6.0.8/microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
+    "/home/codex/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/codex/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "/home/codex/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/codex/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/codex/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
